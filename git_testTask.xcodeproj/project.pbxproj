@@ -119,6 +119,7 @@
 				B7F03FA5249FF60A0015619A /* K.swift */,
 				B7F03F67249FC0D20015619A /* Assets.xcassets */,
 				B7F03F64249FC0CF0015619A /* git_testTask.xcdatamodeld */,
+				B7F03F6C249FC0D20015619A /* Info.plist */,
 			);
 			path = git_testTask;
 			sourceTree = "<group>";
@@ -179,7 +180,6 @@
 			children = (
 				B7F03F61249FC0CF0015619A /* Main.storyboard */,
 				B7F03F69249FC0D20015619A /* LaunchScreen.storyboard */,
-				B7F03F6C249FC0D20015619A /* Info.plist */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
